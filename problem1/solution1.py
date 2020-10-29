@@ -6,11 +6,11 @@ For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 Bonus: Can you do this in one pass? """
 
 
-def if_sum_exists(values, k):
+def if_sum_exists(nums, k):
     
-    for i in values:
-        for j in values:
+    for i in nums:
+        for j in nums:
             if i + j == k:
-                break
+                return "True"
 
-print("True")
+    return "False"
