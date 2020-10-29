@@ -1,6 +1,6 @@
 # Algorithms
 
-Practice problems for a coding interview for Python.
+Practice problems for a coding interviews for Python.
 ---
 I will be dropping in 1 question everyday.
 
