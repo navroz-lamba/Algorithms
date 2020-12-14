@@ -8,6 +8,6 @@ Naming convention of each problem tells you the difficulty level and the company
 
 I will be dropping in 1 question everyday.
 
-The detailed solution will be dropped in the next day. 
+The detailed solution will be dropped in the next day!
 
 **HAPPY CODING!**
