@@ -6,7 +6,7 @@ Problems have been recently asked at the interviews in Google, Amazon, Uber, Fac
 
 Naming convention of each problem tells you the difficulty level and the company where the problem was asked.
 
-I will be dropping in 1 question everyday.
+I will be dropping in one question everyday.
 
 The detailed solution will be dropped in the next day!
 
